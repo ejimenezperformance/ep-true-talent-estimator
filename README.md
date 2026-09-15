@@ -26,7 +26,7 @@ pip install pandas numpy matplotlib
 python ep_true_talent_estimator.py
 ```
 
-Downloads Sean Lahman's public-domain batting data automatically on first
+Downloads Sean Lahman's batting data (CC BY-SA 3.0) automatically on first
 run and regenerates `ep_true_talent_estimator.png`.
 
 ## Method
